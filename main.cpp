@@ -16,7 +16,7 @@ string Name;
 cout<<"1)Add new employee"<<"\n"<<"2)Print all employees"<<"\n"<<"3)Delete by age"<<"\n"<<"4)update salary by name"<<endl;
  cin>>choice;
  if(!(choice>=1&&choice<=4)){
-     cout<<"kkkkk";
+     cout<<"Not vaild, Try again";
        continue;
  }
 
