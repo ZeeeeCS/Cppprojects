@@ -1,0 +1,18 @@
+﻿  OOp.cpp
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(43,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(79,23): warning C4244: 'argument': conversion from 'short' to 'const _Elem', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(79,23): warning C4244:         with
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(79,23): warning C4244:         [
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(79,23): warning C4244:             _Elem=char
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(79,23): warning C4244:         ]
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(86,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(89,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(105,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(190,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(194,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(211,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(225,27): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(263,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(336,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\clsstring.h(384,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\PCC\source\repos\ZeeeeCS\Cppprojects\OOp\OOp\Date.h(131,2): error C2143: syntax error: missing ';' before '}'
